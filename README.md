@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sonu Upadhyay<br><br> Full Stack Developer passionate about building scalable web applications and solving real-world problems through technology.<br><br> Tech Stack:<br>- Frontend: React.js, Next.js, Tailwind CSS, Bootstrap<br>- Backend: Node.js, Express.js, Django, Flask<br>- Databases: MongoDB, MySQL, SQLite<br>- Languages: JavaScript, Python, C++<br>- Tools: Git, GitHub, Docker, Streamlit<br><br> Interests:<br>- Full Stack Development<br>- AI & Machine Learning Projects<br>- Data Science Applications<br><br><br>
+Hi, I'm Sonu Upadhyay<br><br> Full Stack Developer passionate about building scalable web applications and solving real-world problems through technology.<br><br> Tech Stack:<br>- Frontend: React.js, Next.js, Tailwind CSS, Bootstrap<br>- Backend: Node.js, Express.js, Django, Flask<br>- Databases: MongoDB, MySQL, SQLite<br>- Languages: JavaScript, Python, C++<br>- Tools: Git, GitHub, Docker, Streamlit<br><br> Interests:<br>- Full Stack Development<br>- AI & Machine Learning <br>- Data Science Applications<br><br><br>
 
 
 ## 🌐 Socials:
